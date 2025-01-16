@@ -39,7 +39,7 @@
     FROM netflix
     GROUP BY type;
     
-    ## 2.Find the most common rating for Movies and TV Shows 
+## 2.Find the most common rating for Movies and TV Shows 
     SELECT type, rating
     FROM
     (
