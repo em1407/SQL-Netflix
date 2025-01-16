@@ -1,5 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL 
-{Netflix logo}(https://raw.githubusercontent.com/em1407/SQL-Netflix-Project/refs/heads/main/netflix.webp)
+{Netflix logo}([https://raw.githubusercontent.com/em1407/SQL-Netflix-Project/refs/heads/main/netflix.webp](https://github.com/em1407/SQL-Netflix-Project/blob/main/Netflix-Logo.png)
+
     DROP TABLE IF EXISTS netflix;
     CREATE TABLE netflix
     (
